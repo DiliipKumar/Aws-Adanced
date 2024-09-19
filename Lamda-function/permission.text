@@ -1,0 +1,1 @@
+IAM role with EC2 permissions (e.g., ec2:CreateImage, ec2:DescribeInstances)
