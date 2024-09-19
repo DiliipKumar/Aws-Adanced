@@ -5,7 +5,7 @@ ec2_client = boto3.client('ec2')
 
 instance_ids = [
     'i-035341a9e55d19aa4', 'i-06656ac45fbc5ace7', 'i-0edb25fb6537a42b3', 
-    //Random instance-id
+   
 ]
 
 def lambda_handler(event, context):
