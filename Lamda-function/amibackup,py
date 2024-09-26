@@ -5,9 +5,7 @@ from datetime import datetime
 ec2_client = boto3.client('ec2', region_name='ap-southeast-1')
 
 instance_ids = [
-    "i-08a97143ae67d6ba4",
-    "i-02ed488e1a2486b70",
-    "i-0267184932e353b23"
+    "i-08a97143ae67d6ba9"
 ]
 
 
